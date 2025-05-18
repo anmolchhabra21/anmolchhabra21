@@ -1,9 +1,15 @@
 ### Hi there 👋, I am Anmol Chhabra.
-I am an engineering student 🧑‍🎓 pursuing a bachelor’s degree at IIT Dhanbad. 
+I am an engineering student 🧑‍🎓 with my bachelor’s from IIT Dhanbad. 
 * 🚀 Full Stack **MERN, Python, Js** and **Laravel-PHP-MySQL** Developer.
-* 🔭 I’m currently learning about DevOps and Golang. 
+* 🔭 I’m currently working with about DevOps and Golang. 
 * 📫 Reach me at: anmolchhabra71500@gmail.com
 * ❤ Coding :computer:, [Leetcode](https://leetcode.com/u/Anmol_Chhabra/) and Piano :musical_keyboard:
+
+
+👇 Hit in your console or terminal to connect with me.
+```bash
+npx anmolchh-card
+```
 
 **Languages and Tools:** 
 
